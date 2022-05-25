@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="a9d9172b-d4c3-47b3-8298-f3ba13188e03" name="PHP" home="" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+</project>
